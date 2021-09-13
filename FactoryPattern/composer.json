@@ -1,0 +1,19 @@
+{
+    "name": "bek96/factory-method-pattern",
+    "description": "Learning factory pattern",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FactoryPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azizbekeshonaliyev",
+            "email": "1996azizbekeshonaliyev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
