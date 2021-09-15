@@ -1,3 +1,3 @@
-# design-patterns
+# Design patterns
 
 #### Learning about design patterns
