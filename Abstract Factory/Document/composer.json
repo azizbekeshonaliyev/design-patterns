@@ -1,0 +1,19 @@
+{
+    "name": "bek96/abstract-factory-pattern",
+    "description": "Abstract factory pattern",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "AbstractFactoryPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azizbekeshonaliyev",
+            "email": "1996azizbekeshonaliyev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
