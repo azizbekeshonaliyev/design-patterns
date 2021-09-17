@@ -1,0 +1,19 @@
+{
+    "name": "bek96/prototype",
+    "description": "Prototype Design Pattern",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prototype\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azizbekeshonaliyev",
+            "email": "1996azizbekeshonaliyev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
