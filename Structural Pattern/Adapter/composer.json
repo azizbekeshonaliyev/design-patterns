@@ -1,0 +1,19 @@
+{
+    "name": "bek96/adapter",
+    "description": "Adapter Design patterns",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adapter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azizbekeshonaliyev",
+            "email": "1996azizbekeshonaliyev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
